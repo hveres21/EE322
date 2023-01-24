@@ -1,8 +1,8 @@
 # This is Hailey Veres's EE322 Repo
 
-## Course outline
+## Course Outline
 
-*deliverables will be linked as completed*
+*Deliverables will be linked as completed*
 
 Week:
 
@@ -24,7 +24,7 @@ Week:
 ## Project
 Tentatively working with Diane Rosado and JJ
 
-*more details to be added here later in semester*
+*More details to be added here later in semester*
 
 ## Resources
 Link to class website [here](https://sites.google.com/view/ece322)
