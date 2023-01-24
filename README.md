@@ -3,7 +3,9 @@
 ## Course outline
 
 *deliverables will be linked as completed*
+
 Week:
+
 0. Syllabus; Github [Recursion](https://github.com/hveres21/EE322)
 1. Outline; Project Site
 2. Needs Assessment; Needs Assessment
