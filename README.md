@@ -23,6 +23,7 @@ Week:
 
 ## Project
 Tentatively working with Diane Rosado and JJ
+
 *more details to be added here later in semester*
 
 ## Resources
